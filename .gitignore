@@ -1,3 +1,9 @@
+# Files to ignore
+201908-citibike-tripdata.csv
+Bike_Data.csv
+Mod_14_Code.twbx
+NYC_Citibike_Challenge.twbx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
