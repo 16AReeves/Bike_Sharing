@@ -1,6 +1,6 @@
 # Bike Sharing Ride Data
 ---
-## Examining data from CitiBikes in New York City
+## Module 14: Examining data from CitiBikes in New York City using Tableau
 ---
 ### Purpose
 ---
